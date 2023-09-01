@@ -24,3 +24,13 @@
   
   ![image](https://github.com/AndresMarq/iOS-Developer-Portfolio/assets/70426525/1333d838-0435-46d6-b848-61ddab738809)
 
+## Logger
+
+  Portion of a bigger project, allows users to register and log in/log out.
+
+  ### Tech Used
+  - UIKit (Swift)
+  - Firebase (Authentication, Realtime database, Storage)
+  - SDWebImage
+
+    
