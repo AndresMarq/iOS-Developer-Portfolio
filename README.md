@@ -2,7 +2,7 @@
 
 ## [itFeels](https://apps.apple.com/ca/app/itfeels/id1602940771)
 
-  Published iOS app. Symptom tracker application targeted for users with chronic ilnesses.
+  Published iOS app. Symptom tracker application targeted for users with chronic illnesses.
 
   ### Tech Used
   - SwiftUI
