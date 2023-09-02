@@ -31,7 +31,7 @@
   ### Tech Used
   - UIKit (Swift)
   - Firebase (Authentication, Realtime database, Storage)
-  - SDWebImage
+  - Cocoapods
 
   ![image](https://github.com/AndresMarq/iOS-Developer-Portfolio/assets/70426525/7b781e6a-f630-4e00-b40c-50acdc4ddd56)
 
